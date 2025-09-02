@@ -744,26 +744,141 @@ section {
 
 @media (max-width: 480px) {
     .container {
-        padding: 0 var(--space-sm);
+        padding: 0 var(--space-md);
     }
 
+    /* Typography improvements */
+    .hero-title {
+        font-size: 1.875rem;
+        line-height: 1.2;
+        margin-bottom: var(--space-lg);
+    }
+    
+    .hero-subtitle {
+        font-size: 1rem;
+        line-height: 1.5;
+        margin-bottom: var(--space-xl);
+    }
+    
+    .section-title {
+        font-size: 1.75rem;
+        line-height: 1.3;
+        margin-bottom: var(--space-lg);
+    }
+    
+    .section-subtitle {
+        font-size: 0.95rem;
+        line-height: 1.5;
+    }
+
+    /* Section spacing */
+    .hero {
+        padding: var(--space-xl) 0 var(--space-2xl) 0;
+    }
+    
+    .services, .resources, .about {
+        padding: var(--space-xl) 0;
+    }
+    
+    .contact {
+        padding: var(--space-xl) 0 var(--space-2xl) 0;
+    }
+
+    /* Hero chart */
     .hero-chart-placeholder {
-        height: 200px;
+        height: 180px;
         padding: var(--space-md);
     }
 
     .chart-bar {
-        width: 30px;
+        width: 28px;
     }
 
+    /* Cards */
     .service-card,
     .resource-card,
     .contact-form {
         padding: var(--space-lg);
+        margin-bottom: var(--space-md);
     }
 
-    h1 { font-size: 2rem; }
+    /* Contact CTA button optimization */
+    .contact-cta-button {
+        min-width: auto;
+        max-width: 90%;
+        width: auto;
+        padding: var(--space-lg) var(--space-xl);
+        margin: 0 auto;
+    }
+    
+    .contact-cta-text {
+        font-size: 1.5rem;
+    }
+    
+    .contact-cta-email {
+        font-size: 1rem;
+    }
+
+    /* Service cards mobile optimization */
+    .service-card {
+        padding: var(--space-md) var(--space-lg);
+    }
+    
+    .service-card h3 {
+        font-size: 1.25rem;
+        margin-bottom: var(--space-sm);
+    }
+    
+    .service-card p {
+        font-size: 0.95rem;
+        line-height: 1.5;
+    }
+
+    /* Resource cards mobile optimization */
+    .resource-card {
+        padding: var(--space-md) var(--space-lg);
+    }
+    
+    .resource-card h3 {
+        font-size: 1.25rem;
+        margin-bottom: var(--space-sm);
+    }
+    
+    .resource-card p {
+        font-size: 0.95rem;
+        line-height: 1.5;
+        margin-bottom: var(--space-md);
+    }
+
+    /* About section mobile optimization */
+    .testimonial-card {
+        padding: var(--space-lg) var(--space-md);
+        text-align: center;
+    }
+    
+    .testimonial-quote {
+        font-size: 1.1rem;
+        line-height: 1.4;
+        margin-bottom: var(--space-md);
+    }
+
+    /* Button and link improvements */
+    .btn {
+        padding: var(--space-md) var(--space-lg);
+        font-size: 1rem;
+        min-height: 44px; /* Touch target size */
+    }
+    
+    .resource-link, .nav-link {
+        min-height: 44px;
+        display: flex;
+        align-items: center;
+    }
+
+    /* Generic heading fallbacks */
+    h1 { font-size: 1.875rem; }
     h2 { font-size: 1.75rem; }
+    h3 { font-size: 1.375rem; }
 }
 
 /* Smooth Scrolling */
