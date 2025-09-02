@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://ayrhq.com/</loc>
+        <lastmod>2025-09-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://ayrhq.com/resources.html</loc>
+        <lastmod>2025-09-01</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://ayrhq.com/legal.html</loc>
+        <lastmod>2025-09-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    <url>
+        <loc>https://ayrhq.com/privacy.html</loc>
+        <lastmod>2025-09-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    <url>
+        <loc>https://ayrhq.com/terms.html</loc>
+        <lastmod>2025-09-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>
+    <!-- Blog Posts - Enterprise Sales -->
+    <url>
+        <loc>https://ayrhq.com/blogs/001_founders_guide_enterprise_sales_blog.html</loc>
+        <lastmod>2025-09-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <news:news>
+            <news:publication>
+                <news:name>Ayr HQ</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-09-01</news:publication_date>
+            <news:title>The Founder's Guide to Enterprise Sales</news:title>
+            <news:keywords>enterprise sales, B2B sales, sales strategy</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://ayrhq.com/blogs/002_building_scalable_gtm_strategy_blog.html</loc>
+        <lastmod>2025-09-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <news:news>
+            <news:publication>
+                <news:name>Ayr HQ</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-09-01</news:publication_date>
+            <news:title>Building a Scalable GTM Strategy</news:title>
+            <news:keywords>go to market, GTM strategy, sales operations</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://ayrhq.com/blogs/003_revenue_metrics_that_matter_blog.html</loc>
+        <lastmod>2025-09-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <news:news>
+            <news:publication>
+                <news:name>Ayr HQ</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-09-01</news:publication_date>
+            <news:title>Revenue Metrics That Matter</news:title>
+            <news:keywords>revenue operations, sales metrics, KPIs</news:keywords>
+        </news:news>
+    </url>
+    <url>
+        <loc>https://ayrhq.com/blogs/004_closing_enterprise_deals_remotely_blog.html</loc>
+        <lastmod>2025-09-01</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <news:news>
+            <news:publication>
+                <news:name>Ayr HQ</news:name>
+                <news:language>en</news:language>
+            </news:publication>
+            <news:publication_date>2025-09-01</news:publication_date>
+            <news:title>Closing Enterprise Deals Remotely</news:title>
+            <news:keywords>remote sales, enterprise deals, virtual selling</news:keywords>
+        </news:news>
+    </url>
+</urlset>
