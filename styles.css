@@ -612,6 +612,16 @@ section {
     margin-bottom: var(--space-sm);
 }
 
+.footer-brand .footer-logo-link {
+    text-decoration: none;
+    color: inherit;
+}
+
+.footer-brand .footer-logo-link:hover {
+    color: inherit;
+    text-decoration: none;
+}
+
 .footer-brand p {
     color: rgba(255, 255, 255, 0.8);
     margin-bottom: 0;
